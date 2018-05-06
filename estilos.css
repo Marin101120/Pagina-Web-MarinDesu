@@ -1,0 +1,37 @@
+html{
+	background:white;
+}
+li{
+	width:125px; 
+	background:#ff8000;
+	margin:0px;
+	padding:20px;
+	border:10px solid #000;
+	display:inline-flex; 
+}
+
+article {
+	width:50%; 
+	background:#ff8000;
+	margin:20px 50px;
+	padding:30px;
+	border:10px solid #000;
+	position: relative;
+	right: 10;
+}
+aside {
+	width:20%;
+	height:77%; 
+	background:#ff8000;
+	margin:20px 50px;
+	padding:30px;
+	border:10px solid #000;
+	position: relative;
+	right: -600px;
+	top: -466;
+}
+.menú {
+	background:#E6E6E6;
+	width:100%;
+
+}
